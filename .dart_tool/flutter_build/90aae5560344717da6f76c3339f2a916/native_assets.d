@@ -1,0 +1,1 @@
+ /home/baba/Documents/provider_test/.dart_tool/flutter_build/90aae5560344717da6f76c3339f2a916/native_assets.yaml: 

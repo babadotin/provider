@@ -1,0 +1,12 @@
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/provider_test
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/baba/Documents/provider_test/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
