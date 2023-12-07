@@ -8,7 +8,7 @@ class FirstPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final counter = Provider.of<Counter>(context);
+    final counter = Provider.of<Counter>(context, listen: false);
 
     return Scaffold(
       backgroundColor: Colors.blueGrey,
@@ -20,9 +20,14 @@ class FirstPage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
-              '${counter.count}',
-              style: const TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
+            Consumer<Counter>(
+              builder: (BuildContext context, counter, Widget? child) {
+                return Text(
+                  '${counter.count}',
+                  style: const TextStyle(
+                      fontSize: 40, fontWeight: FontWeight.bold),
+                );
+              },
             ),
             const SizedBox(height: 20),
             ElevatedButton(
